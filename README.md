@@ -1,5 +1,5 @@
 # SkiResort
-My amateur application for managing a ski resort database.
+My amateur application for managing a ski resort database. Written in Java.
 Program features:
 1) Administration, namely the division of users into simple workers and administrators.
 Employees can add new hotel customers and view other information from the database.
