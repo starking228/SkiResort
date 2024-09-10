@@ -9,5 +9,5 @@ Administrators can perform all employee functions and also change and delete inf
 4) In the case of successful payment, a check will be sent to the user's email, indicating the prices for all services and the summary.
 All input fields are protected by validation and null checks.
 The database is located on a remote server.
-The project was written without comments, but I tried to write a clean cat and I am proud of this project.
+The project was written without comments, but I tried to write a clean code and I am proud of this project.
 The whole project contains too many elements, so it was only possible to upload it to Hithub as an archive.
